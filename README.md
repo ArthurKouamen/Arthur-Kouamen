@@ -2,18 +2,18 @@
 
 # 👋 Salut, moi c'est Arthur
 
-💻 Développeur passionné  
-📍 Cameroun  
-🚀 J'apprends actuellement Java et le développement logiciel
- 🚀 Je travaille sur plusieurs projets personnels
-🛒 Créateur du projet **Ibram's Shopping**
+-💻 Développeur passionné  
+-📍 Cameroun  
+-🚀 J'apprends actuellement Java et le développement logiciel
+-🚀 Je travaille sur plusieurs projets personnels
+-🛒 Créateur du projet **Ibram's Shopping**
 
 ---
 
 ## 🧠 Compétences techniques
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,haskell,laragon,phpmyadmin,git,github,vscode,linux" />
 </p>
 
 ---
@@ -57,11 +57,11 @@ arthur-kouamen">
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=TON_USERNAME&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=ArthurKouamen&color=blue)
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurKouamen&theme=tokyo-night)
 
 ---
 
