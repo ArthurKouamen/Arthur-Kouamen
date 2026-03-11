@@ -14,7 +14,7 @@
 ## 🧠 Compétences techniques
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,haskell,laragon,phpmyadmin,MySql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,haskell,git,github,vscode,linux" />
 </p>
 
 ---
@@ -26,8 +26,7 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/
-arthur-kouamen">
+<a href="https://www.linkedin.com/in/arthur-kouamen-661761323">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
