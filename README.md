@@ -5,6 +5,8 @@
 💻 Développeur passionné  
 📍 Cameroun  
 🚀 J'apprends actuellement Java et le développement logiciel
+ 🚀 Je travaille sur plusieurs projets personnels
+🛒 Créateur du projet **Ibram's Shopping**
 
 ---
 
@@ -23,7 +25,8 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/ArthurKouamen">
+<a href="www.linkedin.com/in/
+arthur-kouamen">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -51,6 +54,14 @@
 ## 🏆 Trophées GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArthurKouamen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=TON_USERNAME&color=blue)
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night)
 
 ---
 
