@@ -5,6 +5,7 @@
 -💻 Développeur passionné  
 -📍 Cameroun  
 -🚀 J'apprends actuellement Java et le développement logiciel
+
 -🚀 Je travaille sur plusieurs projets personnels
 -🛒 Créateur du projet **Ibram's Shopping**
 
@@ -13,7 +14,7 @@
 ## 🧠 Compétences techniques
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,haskell,laragon,phpmyadmin,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,haskell,laragon,phpmyadmin,MySql,git,github,vscode,linux" />
 </p>
 
 ---
