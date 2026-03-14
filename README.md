@@ -6,7 +6,7 @@
 -📍 Cameroun  
 -🚀 J'apprends actuellement Java et le développement logiciel
 
--🚀 Je travaille sur plusieurs projets personnelse
+-🚀 Je travaille sur plusieurs projets personnels
 
 -🛒 Créateur du projet **Ibram's Shopping**
 
