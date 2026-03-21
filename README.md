@@ -75,6 +75,8 @@
 🔹 Application de gestion de tâches en Java  
 🔹 Site e-commerce **Ibram's Shopping**  
 🔹 Projets d'apprentissage en programmation orientée objet
+🔹 Site de bloging Actus 
+🔹 Minie calculatrice réalisé en java
 
 ---
 
