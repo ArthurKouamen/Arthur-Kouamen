@@ -15,7 +15,7 @@
 ## 🧠 Compétences techniques
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,haskell,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,laravel,haskell,git,github,vscode,linux" />
 </p>
 
 ---
@@ -73,10 +73,13 @@
 ## 🚀 Projets
 
 🔹 Application de gestion de tâches en Java  
+🔹 plateforme hotel-hub
+🔹 application planify
 🔹 Site e-commerce **Ibram's Shopping**  
 🔹 Projets d'apprentissage en programmation orientée objet
 🔹 Site de bloging Actus 
 🔹 Minie calculatrice réalisé en java
+🔹 Gestion de stock en java
 
 ---
 
