@@ -14,7 +14,7 @@ Développeur passionné en formation basé au **Cameroun**, actuellement en trai
 ## 🧠 Compétences Techniques
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,laravel,laragon,mysqlhaskell,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,laravel,laragon,mysql,haskell,git,github,vscode,linux" />
 </p>
 
 **Domaines :** Développement backend (Java), Frontend (HTML/CSS/JavaScript), Bases de données, Contrôle de version (Git)
