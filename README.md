@@ -1,44 +1,44 @@
-# Arthur-Kouamen
+# Arthur Kouamen
 
-# 👋 Salut, moi c'est Arthur
+## 👋 À propos de moi
 
--💻 Développeur passionné  
--📍 Cameroun  
--🚀 J'apprends actuellement Java et le développement logiciel
+Développeur passionné en formation basé au **Cameroun**, actuellement en train de maîtriser **Java** et le développement logiciel. Je suis engagé dans l'apprentissage continu et la création de projets innovants.
 
--🚀 Je travaille sur plusieurs projets personnels
-
--🛒 Créateur du projet **Ibram's Shopping**
+- 💻 Développeur passionné
+- 📍 Cameroun
+- 🚀 En formation : Java et développement logiciel
+- 🎯 Créateur de projets personnels impactants
 
 ---
 
-## 🧠 Compétences techniques
+## 🧠 Compétences Techniques
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,laravel,haskell,git,github,vscode,linux" />
 </p>
 
+**Domaines :** Développement backend (Java), Frontend (HTML/CSS/JavaScript), Bases de données, Contrôle de version (Git)
+
 ---
 
-## 🌍 Me retrouver en ligne
+## 🚀 Projets Majeurs
 
-<p align="left">
-<a href="https://github.com/ArthurKouamen">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### E-commerce
+- 🛒 **Ibram's Shopping** - Plateforme e-commerce complète
 
-<a href="https://www.linkedin.com/in/arthur-kouamen-661761323">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Gestion & Outils
+- 📋 Application de gestion de tâches (Java)
+- 📦 Gestion de stock (Java)
+- 🧮 Mini calculatrice (Java)
 
-<a href="mailto:arthurkouamen@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Web & Applications
+- 🏨 **Hotel-Hub** - Plateforme hôtelière
+- 📅 **Planify** - Application de planification
+- 📝 **Actus** - Site de blogging
+- ♿ **JS-Reability** - Projet JavaScript
 
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
+### Apprentissage
+- 🎓 Projets en Programmation Orientée Objet (POO)
 
 ---
 
@@ -50,9 +50,11 @@
 
 ---
 
-## 🔥 Série de contributions
+## 🔥 Activité & Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArthurKouamen&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurKouamen&theme=tokyo-night)
 
 ---
 
@@ -62,26 +64,32 @@
 
 ---
 
+## 🌍 Me Retrouver en Ligne
+
+<p align="left">
+<a href="https://github.com/ArthurKouamen">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arthur-kouamen-661761323">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:arthurkouamen@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
+
+---
+
+## 📈 Visiteurs
+
 ![visitors](https://komarev.com/ghpvc/?username=ArthurKouamen&color=blue)
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurKouamen&theme=tokyo-night)
-
----
-
-## 🚀 Projets
-
-🔹 Application de gestion de tâches en Java 
-🔹projet JS-Reability
-🔹 plateforme hotel-hub
-🔹 application planify
-🔹 Site e-commerce **Ibram's Shopping**  
-🔹 Projets d'apprentissage en programmation orientée objet
-🔹 Site de bloging Actus 
-🔹 Minie calculatrice réalisé en java
-🔹 Gestion de stock en java
-
----
-
-⭐ N'hésite pas à explorer mes projets !
+⭐ **N'hésite pas à explorer mes projets et à me contacter pour collaborer !**
