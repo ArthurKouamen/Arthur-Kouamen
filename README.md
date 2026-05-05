@@ -72,7 +72,8 @@
 
 ## 🚀 Projets
 
-🔹 Application de gestion de tâches en Java  
+🔹 Application de gestion de tâches en Java 
+🔹projet JS-Reability
 🔹 plateforme hotel-hub
 🔹 application planify
 🔹 Site e-commerce **Ibram's Shopping**  
